@@ -1,0 +1,5 @@
+#katalogi
+node_modules/
+#pliki o danym rozsz
+*.env
+*.log
