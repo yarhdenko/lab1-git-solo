@@ -5,3 +5,5 @@
 Yaroslav
 
 nowa linia
+
+zmiana z GitHub-a
