@@ -4,4 +4,4 @@ line new
 
 1
 
-**bardzo NIE-bledny opis**
+**bardzo bledny opis**
