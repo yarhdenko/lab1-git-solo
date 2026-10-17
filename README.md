@@ -1,4 +1,4 @@
-Zmiana pierwszej linii
+# Projekt Alpha
 # Lab1 - git
 
 ## Autor 
