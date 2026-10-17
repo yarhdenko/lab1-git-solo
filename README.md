@@ -1,4 +1,4 @@
-# Projekt Beta
+# Projekt Alpha-Beta
 # Lab1 - git
 
 ## Autor 
